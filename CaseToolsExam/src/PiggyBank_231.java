@@ -2,6 +2,7 @@
 public class PiggyBank_231 {
 	int num_coins;
 	int coin_value;
+	int coin_name;
 	
 	PiggyBank_231()
 	{
